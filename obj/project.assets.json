@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\dot-net(.net)\\cadastro-de-contatos\\cadastro-de-contatos.csproj",
-      "projectName": "cadastro-de-contatos",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\dot-net(.net)\\cadastro-de-contatos\\cadastro-de-contatos.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\dot-net(.net)\\ControleDeCadastros\\ControleDeCadastros.csproj",
+      "projectName": "ControleDeCadastros",
+      "projectPath": "C:\\Users\\Gabriel\\Desktop\\dot-net(.net)\\ControleDeCadastros\\ControleDeCadastros.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\dot-net(.net)\\cadastro-de-contatos\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\Desktop\\dot-net(.net)\\ControleDeCadastros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,4 +1,4 @@
-namespace cadastro_de_contatos.Models;
+namespace ControleDeCadastros.Models;
 
 public class ErrorViewModel
 {

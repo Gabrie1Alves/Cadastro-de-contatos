@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using cadastro_de_contatos.Models;
+using ControleDeCadastros.Models;
 
-namespace cadastro_de_contatos.Controllers;
+namespace ControleDeCadastros.Controllers;
 
 public class HomeController : Controller
 {
