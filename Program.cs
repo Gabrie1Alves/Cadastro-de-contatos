@@ -1,7 +1,17 @@
+using GerenciadorDeContatos.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<Contexto>
+    (options =>
+    {
+        options.UseSqlServer
+            ("Data Source=DESKTOP-ONLN6KN\\SQLEXPRESS;Initial Catalog=DB_Contatos;Persist Security Info=True;User ID=sa;Password=123qwe; TrustServerCertificate=True");
+    });
 
 var app = builder.Build();
 
